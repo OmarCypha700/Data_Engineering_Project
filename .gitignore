@@ -1,0 +1,5 @@
+/mosquitto
+/influxdb
+/grafana
+/telegraf
+.env
